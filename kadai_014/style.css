@@ -3,13 +3,11 @@ html {
 }
 body {
   text-align: center;
-}
-.google-fonts {
-  font-family: "Arial, Meiryo" sans-serif;  
+  font-family: "Arial, Meiryo" sans-serif;
 }
 h1 {
-  font-family: "Josefin Sans" sans-serif;
-  font-size: 40px;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2rem;
   letter-spacing: 1.2em;
   text-shadow: 3px 3px 6px grey;
   border-bottom: solid 3px rgb(115,115,114); 
