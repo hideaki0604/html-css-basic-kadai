@@ -3,10 +3,12 @@ html {
 }
 body {
   text-align: center;
-  font-family: "Arial, Meiryo" sans-serif;
+  font-family: "Arial", "Meiryo", sans-serif;
 }
 h1 {
   font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
   font-size: 2rem;
   letter-spacing: 1.2em;
   text-shadow: 3px 3px 6px grey;
